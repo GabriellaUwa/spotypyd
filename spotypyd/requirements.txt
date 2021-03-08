@@ -1,0 +1,6 @@
+Flask~=1.1.2
+spotipy
+redis
+python-dateutil
+python-dotenv
+gunicorn
